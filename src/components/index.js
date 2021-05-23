@@ -1,4 +1,4 @@
-import Action from './Action2';
+import Action from './Action';
 
 import ActionIcon from './ActionIcon';
 import ActionLink from './ActionLink';
