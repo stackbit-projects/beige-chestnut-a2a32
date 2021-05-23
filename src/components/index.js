@@ -1,5 +1,5 @@
-import Action from './Action';
-import Action from './Action';
+import Action from './Action2';
+
 import ActionIcon from './ActionIcon';
 import ActionLink from './ActionLink';
 import Announcement from './Announcement';
