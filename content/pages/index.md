@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/gordon-norman.png
+    image: /images/Screen Shot 2019-05-02 at 11.10.08 AM.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
